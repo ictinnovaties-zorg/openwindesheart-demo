@@ -35,19 +35,19 @@ The features have been tested with Android/iOS phones in combination with the Mi
 
 At this moment the Windesheart SDK only supports the Mi Band 3. 
 
-The SDK is designed in a way that other devices can be added easily. If you want to add support for a device, please check out our documentation: [How to add support for a new device](https://bitbucket.org/ictinnovaties-zorg/openwindesheart/src/master/README-SupportNewDevice.md)
+The SDK is designed in a way that other devices can be added easily. If you want to add support for a device, please check out our documentation: [How to add support for a new device](https://github.com/ictinnovaties-zorg/openwindesheart-demo/blob/master/README-SupportNewDevice.md)
 
 ## Documentation
 
 #### User docs:
-* [Scanning](https://bitbucket.org/ictinnovaties-zorg/openwindesheart/src/master/README-Scanning.md)  
-* [Connecting & Disconnecting](https://bitbucket.org/ictinnovaties-zorg/openwindesheart/src/master/README-Connecting.md)  
-* [Reading data](https://bitbucket.org/ictinnovaties-zorg/openwindesheart/src/master/README-Readingdata.md)
-* [Reading samples](https://bitbucket.org/ictinnovaties-zorg/openwindesheart/src/master/README-Samples.md)
-* [Supported settings](https://bitbucket.org/ictinnovaties-zorg/openwindesheart/src/master/README-Settings.md)
+* [Scanning](https://github.com/ictinnovaties-zorg/openwindesheart-demo/blob/master/README-Scanning.md)  
+* [Connecting & Disconnecting](https://github.com/ictinnovaties-zorg/openwindesheart-demo/blob/master/README-Connecting.md)  
+* [Reading data](https://github.com/ictinnovaties-zorg/openwindesheart-demo/blob/master/README-Readingdata.md)
+* [Reading samples](https://github.com/ictinnovaties-zorg/openwindesheart-demo/blob/master/README-Samples.md)
+* [Supported settings](https://github.com/ictinnovaties-zorg/openwindesheart-demo/blob/master/README-Settings.md)
 
 #### Contributor docs:
-* [How to add support for a new device](https://bitbucket.org/ictinnovaties-zorg/openwindesheart/src/master/README-SupportNewDevice.md)
+* [How to add support for a new device](https://github.com/ictinnovaties-zorg/openwindesheart-demo/blob/master/README-SupportNewDevice.md)
 
 ## SETUP  
 1.  Clone this repository into your solution and manage a dependency from your mobile-project to this one.  
@@ -60,7 +60,13 @@ We would like to thank Allan Ritchie for creating the [ACR Reactive BluetoothLE 
 
 ## Contributions
 
-To make contributions to this project, please open up a [pull request](https://bitbucket.org/ictinnovaties-zorg/openwindesheart/pull-requests/new).
+To make contributions to this project, please open up a [pull request](https://github.com/ictinnovaties-zorg/openwindesheart-demo/pull/new/master).
+
+## Creators
+* R. Abächerli [@ramonb1996](https://github.com/ramonB1996)
+* T.C. Marschalk [@marstc](https://github.com/marstc)
+* H. van der Gugten
+* K. van Sloten [@kevinvansloten](https://github.com/kevinvansloten)
 
 ## Copyright
 
