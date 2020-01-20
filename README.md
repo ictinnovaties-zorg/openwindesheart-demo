@@ -1,6 +1,6 @@
 # OpenWindesheart-Demo
 
-This project features a mobile demo-application for the OpenWindesheart SDK.
+This project features a mobile demo-application for the OpenWindesheart library.
 For detailed docs visit [OpenWindesheart](https://github.com/ictinnovaties-zorg/openwindesheart)
 
 ## Support
